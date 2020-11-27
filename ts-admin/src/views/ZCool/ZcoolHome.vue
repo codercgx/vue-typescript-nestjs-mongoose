@@ -127,6 +127,7 @@
 </template>
 
 <script lang="ts">
+//练习ts
 import { Vue, Component } from "vue-property-decorator";
 import {
   navmenu,
