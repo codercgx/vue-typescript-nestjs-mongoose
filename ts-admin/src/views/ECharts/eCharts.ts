@@ -1,3 +1,4 @@
+/*添加echarts*/
 import echarts from "echarts";
 import "echarts/map/js/china.js";
 
